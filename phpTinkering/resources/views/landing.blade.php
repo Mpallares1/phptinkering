@@ -236,8 +236,9 @@
         <h1>Explora les Bases de Dades d'Equips i Pel·lícules</h1>
         <nav>
             <ul>
-                <li><a href="#equips">Base de Dades d'Equips</a></li>
-                <li><a href="#pelicules">Base de Dades de Pel·lícules</a></li>
+                <li><a href="/">Inici</a></li>
+                <li><a href="/equips">Base de Dades d'Equips</a></li>
+                <li><a href="/films">Base de Dades de Pel·lícules</a></li>
                 <li><a href="#features">Característiques</a></li>
             </ul>
         </nav>
